@@ -3,7 +3,7 @@
  public class
  KabisatNested06{
     public static void main(String[] args) {
-        Scanner input06 = new Scanner(System.in)
+        Scanner input06 = new Scanner(System.in);
         int tahun;
 
         System.out.println("Masukkan Tahun : ");
